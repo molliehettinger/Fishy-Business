@@ -5,42 +5,45 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
 
-    int player_x_coordinate = 0;
-    int player_y_coordinate = 5;
-    int player_z_coordinate = 0;
 
-    int Playerspeed = 1;
+    public float speed = 5f;
+
+    Rigidbody player_rb;
 
     // Start is called before the first frame update
     void Start()
     {
-        transform.localPosition = new Vector3(player_x_coordinate, player_y_coordinate, player_z_coordinate);
-    }
+        player_rb = GetComponent<Rigidbody>();
+    }//ends Start
 
     // Update is called once per frame
     void Update()
     {
-        //Go Forward and Backwards. Z Is forward and backwards.
-        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)){
-            transform.Translate(0, 0, Playerspeed);
-        }
-        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
+
+
+        float xMov = Input.GetAxisRaw("Horizontal");
+        float zMov = Input.GetAxisRaw("Vertical");
+
+        player_rb.velocity = new Vector3(xMov*speed, player_rb.velocity.y, zMov *speed) *Time.deltaTime;
+
+
+        if (Input.GetKey(KeyCode.Q))
         {
-            transform.Translate(0, 0, -Playerspeed);
+            transform.Rotate(0, -1, 0);
         }
-        //Go Left and Right
-        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
+  
+        if (Input.GetKey(KeyCode.E))
         {
-            transform.Rotate(0, Playerspeed, 0);
-        }
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
-        {
-            transform.Rotate(0, -Playerspeed, 0);
+            transform.Rotate(0, 1, 0);
         }
 
-        
+        if (Input.GetKey(KeyCode.Space))
+        {
 
-    }
-
+        }
+      
     
-}
+        }//ends Update
+
+    }//ends public class
+
