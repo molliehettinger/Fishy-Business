@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Camera.cs" />
     <Compile Include="Assets\Scripts\ConsoleTest.cs" />
+    <Compile Include="Assets\Scripts\DirtPatches.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -596,6 +597,9 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Art/Games/Fishy Business/Fishy_Business_Repo/Fishy-Business/Fish Business/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>D:/Art/Games/Fishy Business/Fishy_Business_Repo/Fishy-Business/Fish Business/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>D:/Art/Games/Fishy Business/Fishy_Business_Repo/Fishy-Business/Fish Business/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -613,6 +617,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>D:/Art/Games/Fishy Business/Fishy_Business_Repo/Fishy-Business/Fish Business/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>D:/Art/Games/Fishy Business/Fishy_Business_Repo/Fishy-Business/Fish Business/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>D:/Art/Games/Fishy Business/Fishy_Business_Repo/Fishy-Business/Fish Business/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
