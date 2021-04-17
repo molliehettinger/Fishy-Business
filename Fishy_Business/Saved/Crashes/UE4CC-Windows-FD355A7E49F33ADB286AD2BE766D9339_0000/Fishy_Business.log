@@ -1,0 +1,1390 @@
+﻿Log file open, 04/17/21 17:34:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Fishy_Business
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.237655
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Wingedhatchling -epicuserid=4e945038edf6469fb4979ac5b2a1c322 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+[2021.04.17-21.34.19:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.17-21.34.19:515][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.17-21.34.19:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+[2021.04.17-21.34.19:516][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+[2021.04.17-21.34.19:530][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.17-21.34.19:530][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.17-21.34.19:531][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.17-21.34.19:531][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.17-21.34.19:531][  0]LogHAL: Display: Platform has ~ 32 GB [34306404352 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.17-21.34.19:531][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.17-21.34.19:531][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.17-21.34.19:531][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Scalability.ini]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.17-21.34.19:532][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.17-21.34.19:533][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.17-21.34.19:533][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.17-21.34.19:533][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.17-21.34.19:533][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Engine.ini]
+[2021.04.17-21.34.19:533][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Config/Windows/Editor.ini]
+[2021.04.17-21.34.19:533][  0]LogInit: Computer: DESKTOP-V72VFJE
+[2021.04.17-21.34.19:533][  0]LogInit: User: Wingedhatchling
+[2021.04.17-21.34.19:533][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.17-21.34.19:533][  0]LogInit: High frequency timer resolution =3.914065 MHz
+[2021.04.17-21.34.19:533][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2021.04.17-21.34.19:533][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.17-21.34.19:533][  0]LogMemory: Process Physical Memory: 133.73 MB used, 133.73 MB peak
+[2021.04.17-21.34.19:533][  0]LogMemory: Process Virtual Memory: 118.88 MB used, 118.88 MB peak
+[2021.04.17-21.34.19:533][  0]LogMemory: Physical Memory: 9633.33 MB used,  23083.80 MB free, 32717.14 MB total
+[2021.04.17-21.34.19:533][  0]LogMemory: Virtual Memory: 134192744.00 MB used,  24984.18 MB free, 134217728.00 MB total
+[2021.04.17-21.34.19:537][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.17-21.34.19:560][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.17-21.34.19:561][  0]LogInit: Using OS detected language (en-US).
+[2021.04.17-21.34.19:561][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.17-21.34.19:566][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.17-21.34.19:748][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.17-21.34.19:758][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.17-21.34.19:777][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.17-21.34.19:777][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.17-21.34.19:918][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.17-21.34.19:918][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.17-21.34.19:918][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.17-21.34.19:918][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.17-21.34.19:965][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.04.17-21.34.19:965][  0]LogD3D11RHI:       8086/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.17-21.34.19:968][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.17-21.34.19:968][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.17-21.34.19:968][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.17-21.34.19:975][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.17-21.34.19:975][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.17-21.34.19:975][  0]LogWindows: EnumDisplayDevices:
+[2021.04.17-21.34.19:975][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.04.17-21.34.19:975][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.04.17-21.34.19:975][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.04.17-21.34.19:975][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.04.17-21.34.19:975][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.17-21.34.19:975][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.04.17-21.34.19:975][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2021.04.17-21.34.19:975][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2021.04.17-21.34.19:976][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2021.04.17-21.34.19:999][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.17-21.34.19:999][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.17-21.34.19:999][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.17-21.34.20:110][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.17-21.34.20:111][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.17-21.34.20:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.17-21.34.20:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.17-21.34.20:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.17-21.34.20:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.17-21.34.20:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.17-21.34.20:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.17-21.34.20:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.17-21.34.20:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.17-21.34.20:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.17-21.34.20:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.17-21.34.20:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.17-21.34.20:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.17-21.34.20:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.17-21.34.20:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.17-21.34.20:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.17-21.34.20:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.17-21.34.20:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.17-21.34.20:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.17-21.34.20:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.17-21.34.20:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.17-21.34.20:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.17-21.34.20:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.17-21.34.20:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.17-21.34.20:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.17-21.34.20:652][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.17-21.34.20:661][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.17-21.34.20:726][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.17-21.34.20:726][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Intermediate/Shaders/WorkingDirectory/8624/).
+[2021.04.17-21.34.20:726][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wingedhatchling/AppData/Local/Temp/UnrealShaderWorkingDir/734905EE43ADEA5D5D27228E0E3C45B8/'.
+[2021.04.17-21.34.20:726][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.17-21.34.20:726][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.17-21.34.21:494][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.17-21.34.21:540][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Wingedhatchling/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.17-21.34.21:540][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wingedhatchling/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.17-21.34.21:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.17-21.34.21:540][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.17-21.34.21:540][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.17-21.34.21:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.17-21.34.21:551][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.17-21.34.21:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.17-21.34.21:551][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.17-21.34.21:561][  0]LogDerivedDataCache: Speed tests for C:/Users/Wingedhatchling/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.17-21.34.21:561][  0]LogDerivedDataCache: Display: Performance to C:/Users/Wingedhatchling/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=205.10MBs, RandomWriteSpeed=192.94MBs. Assigned SpeedClass 'Local'
+[2021.04.17-21.34.21:562][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wingedhatchling/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.17-21.34.21:562][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.17-21.34.21:562][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.17-21.34.21:607][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.17-21.34.21:608][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.17-21.34.21:630][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2021.04.17-21.34.21:930][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.17-21.34.21:930][  0]LogInit: Active device profile: [000001DCC2725900][000001DCC1BCB740 49] Windows
+[2021.04.17-21.34.21:930][  0]LogInit: Profiles: [000001DCC2725900][000001DCC1BCB740 49] Windows, [000001DCC2703E00][000001DCC1BCF880 49] WindowsNoEditor, [000001DCC2727300][000001DCC1BD39C0 49] WindowsServer, [000001DCC2701000][000001DCC1BDBB40 49] WindowsClient, [000001DCC2725100][000001DCC1BDFCC0 49] IOS, [000001DCC2703B00][000001DCC1BE2180 49] iPadAir, [000001DCC2727200][000001DCC1BE6300 49] iPadAir2, [000001DCC26AA600][000001DCC1BEE5C0 49] IPadPro, [000001DCC26AA700][000001DCC1BEA600 49] iPadAir3, [000001DCC2727700][000001DCC1BF2780 49] iPadAir4, [000001DCC26ABC00][000001DCC1BF6900 49] iPadMini2, [000001DCC2725F00][000001DCC1BFAA80 49] iPadMini3, [000001DCC26A9B00][000001DCC1BFEC00 49] iPadMini4, [000001DCC2725D00][000001DCC1C02D80 49] iPadMini5, [000001DCC26B5F00][000001DCC1C0B040 49] iPhone6, [000001DCC26B6000][000001DCC1C07080 49] iPodTouch6, [000001DCC2703C00][000001DCC1C13340 49] iPhone7, [000001DCC2703D00][000001DCC1C0F380 49] iPodTouch7, [000001DCC26B7600][000001DCC1C17500 49] iPhone5S, [000001DCC2701800][000001DCC1BD7640 49] iPhone6Plus, [000001DCC26B5900][000001DCC1C1B780 49] iPhone6S, [000001DCC2701F00][000001DCC1C1F8C0 49] iPhone6SPlus, [000001DCC26B4C00][000001DCC1C23A00 49] iPhone7Plus, [000001DCC2702600][000001DCC1C2BB80 49] iPhoneSE, [000001DCC26B5200][000001DCC1C2FD00 49] iPhone8, [000001DCC2703900][000001DCC1C321C0 49] iPhone8Plus, [000001DCC26B4A00][000001DCC1C36340 49] iPhoneX, [000001DCC2701200][000001DCC1C3A4C0 49] iPhoneXS, [000001DCC26B6500][000001DCC1C3E640 49] iPhoneXSMax, [000001DCC2700700][000001DCC1C427C0 49] iPhoneXR, [000001DCC26B7000][000001DCC1C46940 49] iPhone11, [000001DCC2703200][000001DCC1C4AAC0 49] iPhone11Pro, [000001DCC26B5800][000001DCC1C4EC40 49] iPhone11ProMax, [000001DCC2702800][000001DCC1C52DC0 49] iPhoneSE2, [000001DCC26B7C00][000001DCC1C56F40 49] iPhone12Mini, [000001DCC2702700][000001DCC1C5B0C0 49] iPhone12, [000001DCC2727A00][000001DCC1C5F240 49] iPhone12Pro, [000001DCC26B5700][000001DCC1C633C0 49] iPhone12ProMax, [000001DCC2727C00][000001DCC1C67540 49] iPadPro105, [000001DCC26B4E00][000001DCC1C6B6C0 49] iPadPro129, [000001DCC2726D00][000001DCC1C27800 49] iPadPro97, [000001DCC26B6C00][000001DCC1C6F940 49] iPadPro2_129, [000001DCC2701700][000001DCC1C73A80 49] iPad5, [000001DCC26B7800][000001DCC1C7BC00 49] iPad6, [000001DCC2701A00][000001DCC1C7E0C0 49] iPad7, [000001DCC26B5100][000001DCC1C82240 49] iPad8, [000001DCC2700C00][000001DCC1C863C0 49] iPadPro11, [000001DCC26B4B00][000001DCC1C8A540 49] iPadPro2_11, [000001DCC2703700][000001DCC1C8E6C0 49] iPadPro3_129, [000001DCC26B4100][000001DCC1C92840 49] iPadPro4_129, [000001DCC2703A00][000001DCC1C969C0 49] AppleTV, [000001DCC26B7B00][000001DCC1C9AB40 49] AppleTV4K, [000001DCC2700100][000001DCC1C9ECC0 49] TVOS, [000001DCC26B4500][000001DCC1CA2E40 49] Mac, [000001DCC2703500][000001DCC1CA6FC0 49] MacClient, [000001DCC26B7400][000001DCC1CAB140 49] MacNoEditor, [000001DCC2702000][000001DCC1CAF2C0 49] MacServer, [000001DCC26B5300][000001DCC1CB3440 49] Linux, [000001DCC2703100][000001DCC1CB75C0 49] LinuxAArch64, [000001DCC26B6200][000001DCC1CBB740 49] LinuxNoEditor, [000001DCC2701B00][000001DCC1C77880 49] LinuxAArch64NoEditor, [000001DCC26B7300][000001DCC1CBF9C0 49] LinuxClient, [000001DCC2702C00][000001DCC1CC3B00 49] LinuxAArch64Client, [000001DCC26B6600][000001DCC1CC7C40 49] LinuxServer, [000001DCC2702400][000001DCC1CCE100 49] LinuxAArch64Server, [000001DCC26B6D00][000001DCC1CD2280 49] Android, [000001DCC2700E00][000001DCC1CD6400 49] Android_Low, [000001DCC26B5600][000001DCC1CDA580 49] Android_Mid, [000001DCC2702900][000001DCC1CDE700 49] Android_High, [000001DCC26B6700][000001DCC1CE2880 49] Android_Default, [000001DCC2701900][000001DCC1CE6A00 49] Android_Adreno4xx, [000001DCC26B4700][000001DCC1CEAB80 49] Android_Adreno5xx_Low, [000001DCC2702200][000001DCC1CEED00 49] Android_Adreno5xx, [000001DCC26B4800][000001DCC1CF2E80 49] Android_Adreno6xx, [000001DCC2703600][000001DCC1CF7000 49] Android_Adreno6xx_Vulkan, [000001DCC26B6800][000001DCC1CFB180 49] Android_Mali_T6xx, [000001DCC2702F00][000001DCA319B300 49] Android_Mali_T7xx, [000001DCC26B4D00][000001DCA319F480 49] Android_Mali_T8xx, [000001DCC2702D00][000001DCA31A3600 49] Android_Mali_G71, [000001DCC26B4F00][000001DCA31A7780 49] Android_Mali_G72, [000001DCC2700D00][000001DCC1CCB8C0 49] Android_Mali_G72_Vulkan, [000001DCC26B6A00][000001DCA31ABA00 49] Android_Mali_G76, [000001DCC2701300][000001DCA31AFB40 49] Android_Mali_G76_Vulkan, [000001DCC26B5A00][000001DCA31B3C80 49] Android_Mali_G77, [000001DCC26AAE00][000001DCA31BA140 49] Android_Mali_G77_Vulkan, [000001DCC2727900][000001DCA31BE2C0 49] Android_Vulkan_SM5, [000001DCC26A8800][000001DCA31C2440 49] Android_PowerVR_G6xxx, [000001DCC2727400][000001DCA31C65C0 49] Android_PowerVR_GT7xxx, [000001DCC26A8E00][000001DCA31CA740 49] Android_PowerVR_GE8xxx, [000001DCC2725400][000001DCA31CE8C0 49] Android_PowerVR_GM9xxx, [000001DCC26A8900][000001DCA31D2A40 49] Android_PowerVR_GM9xxx_Vulkan, [000001DCC2724E00][000001DCA31D6BC0 49] Android_TegraK1, [000001DCC26A8D00][000001DCA31DAD40 49] Android_Unknown_Vulkan, [000001DCC2724C00][000001DCA31DEEC0 49] Lumin, [000001DCC26A9000][000001DCA31E3040 49] Lumin_Desktop, [000001DCC2725700][000001DCA31E71C0 49] HoloLens, 
+[2021.04.17-21.34.22:079][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.17-21.34.22:079][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.17-21.34.22:079][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.17-21.34.22:079][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.17-21.34.22:079][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.17-21.34.22:103][  0]LogNetVersion: Fishy_Business 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3852380940)
+[2021.04.17-21.34.22:673][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.17-21.34.22:767][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.093604 seconds
+[2021.04.17-21.34.22:775][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.04.17-21.34.22:775][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.04.17-21.34.22:775][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.17-21.34.23:133][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.17-21.34.23:177][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.17-21.34.23:465][  0]SourceControl: Source control is disabled
+[2021.04.17-21.34.23:465][  0]SourceControl: Source control is disabled
+[2021.04.17-21.34.23:469][  0]SourceControl: Source control is disabled
+[2021.04.17-21.34.23:473][  0]SourceControl: Source control is disabled
+[2021.04.17-21.34.23:481][  0]SourceControl: Source control is disabled
+[2021.04.17-21.34.23:489][  0]LogUProjectInfo: Found projects:
+[2021.04.17-21.34.23:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.17-21.34.23:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.17-21.34.23:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.17-21.34.23:809][  0]LogCollectionManager: Loaded 0 collections in 0.002086 seconds
+[2021.04.17-21.34.23:845][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Collections/' took 0.00s
+[2021.04.17-21.34.23:845][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Developers/Wingedhatchling/Collections/' took 0.00s
+[2021.04.17-21.34.23:845][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Collections/' took 0.00s
+[2021.04.17-21.34.23:845][  0]LogOcInput: OculusInput pre-init called
+[2021.04.17-21.34.23:858][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.17-21.34.23:858][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.17-21.34.23:921][  0]LogEngine: Initializing Engine...
+[2021.04.17-21.34.23:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.17-21.34.23:922][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.17-21.34.23:924][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.17-21.34.24:070][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.17-21.34.24:083][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.17-21.34.24:144][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.17-21.34.24:149][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.17-21.34.24:149][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.17-21.34.24:149][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.17-21.34.24:149][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.17-21.34.24:149][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.17-21.34.24:149][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.17-21.34.24:149][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.17-21.34.24:149][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.17-21.34.24:149][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.17-21.34.24:149][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.17-21.34.24:150][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.17-21.34.24:150][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.17-21.34.24:164][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.17-21.34.24:164][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.17-21.34.24:211][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.04.17-21.34.24:215][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.17-21.34.24:217][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.17-21.34.24:217][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.17-21.34.24:219][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.17-21.34.24:219][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.17-21.34.24:219][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.17-21.34.24:224][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.17-21.34.24:224][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.17-21.34.24:224][  0]LogInit: FAudioDevice initialized.
+[2021.04.17-21.34.24:224][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.17-21.34.24:224][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.17-21.34.24:303][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/Wingedhatchling/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.17-21.34.24:304][  0]LogInit: Texture streaming: Enabled
+[2021.04.17-21.34.24:319][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.04.17-21.34.24:323][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.17-21.34.24:323][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.17-21.34.24:326][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.17-21.34.24:346][  0]LogInit: Transaction tracking system initialized
+[2021.04.17-21.34.24:371][  0]BlueprintLog: New page: Editor Load
+[2021.04.17-21.34.24:495][  0]LocalizationService: Localization service is disabled
+[2021.04.17-21.34.24:522][  0]TimingProfiler: Initialize
+[2021.04.17-21.34.24:523][  0]TimingProfiler: OnSessionChanged
+[2021.04.17-21.34.24:523][  0]LoadingProfiler: Initialize
+[2021.04.17-21.34.24:523][  0]LoadingProfiler: OnSessionChanged
+[2021.04.17-21.34.24:523][  0]NetworkingProfiler: Initialize
+[2021.04.17-21.34.24:523][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.17-21.34.24:523][  0]MemoryProfiler: Initialize
+[2021.04.17-21.34.24:523][  0]MemoryProfiler: OnSessionChanged
+[2021.04.17-21.34.24:745][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.17-21.34.24:745][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.17-21.34.24:929][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/' took 0.00s
+[2021.04.17-21.34.25:102][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.17-21.34.25:108][  0]SourceControl: Source control is disabled
+[2021.04.17-21.34.25:108][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.506
+[2021.04.17-21.34.25:118][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.04.17-21.34.25:119][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.17-21.34.25:119][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.25:119][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.17-21.34.25:124][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.04.17-21.34.25:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.04.17-21.34.25:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.04.17-21.34.25:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.04.17-21.34.25:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.04.17-21.34.25:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.04.17-21.34.25:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.04.17-21.34.25:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.04.17-21.34.25:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.04.17-21.34.25:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.04.17-21.34.25:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.04.17-21.34.25:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.04.17-21.34.25:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.04.17-21.34.25:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.04.17-21.34.25:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.04.17-21.34.25:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.04.17-21.34.25:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.04.17-21.34.25:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.04.17-21.34.25:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Fire01.uasset"
+[2021.04.17-21.34.25:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.04.17-21.34.25:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.04.17-21.34.25:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.04.17-21.34.25:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Light01.uasset"
+[2021.04.17-21.34.25:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.04.17-21.34.25:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Light02.uasset"
+[2021.04.17-21.34.25:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.04.17-21.34.25:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.04.17-21.34.25:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.04.17-21.34.25:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.04.17-21.34.25:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.04.17-21.34.25:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.04.17-21.34.25:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.04.17-21.34.25:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.04.17-21.34.25:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.04.17-21.34.25:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Steam01.uasset"
+[2021.04.17-21.34.25:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.04.17-21.34.25:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.04.17-21.34.25:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.04.17-21.34.25:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.04.17-21.34.25:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.04.17-21.34.25:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.04.17-21.34.25:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.04.17-21.34.25:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.04.17-21.34.25:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.04.17-21.34.25:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.04.17-21.34.25:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.04.17-21.34.25:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.04.17-21.34.25:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.04.17-21.34.25:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.04.17-21.34.25:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.04.17-21.34.25:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.04.17-21.34.25:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.04.17-21.34.25:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.04.17-21.34.25:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.04.17-21.34.25:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.04.17-21.34.25:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.04.17-21.34.26:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.04.17-21.34.26:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/StarterMap.umap"
+[2021.04.17-21.34.26:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.04.17-21.34.26:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.04.17-21.34.26:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.04.17-21.34.26:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.04.17-21.34.26:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.04.17-21.34.26:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.04.17-21.34.26:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.04.17-21.34.26:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.04.17-21.34.26:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.04.17-21.34.26:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.04.17-21.34.26:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.04.17-21.34.26:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.04.17-21.34.26:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.04.17-21.34.26:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.04.17-21.34.26:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.04.17-21.34.26:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.04.17-21.34.26:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.04.17-21.34.26:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.04.17-21.34.26:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.04.17-21.34.26:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.04.17-21.34.26:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.04.17-21.34.26:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.04.17-21.34.26:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.04.17-21.34.26:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.04.17-21.34.26:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.04.17-21.34.26:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.04.17-21.34.26:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.04.17-21.34.26:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.04.17-21.34.26:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.04.17-21.34.26:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.04.17-21.34.26:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.04.17-21.34.26:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.04.17-21.34.26:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.04.17-21.34.26:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.04.17-21.34.26:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.04.17-21.34.26:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.04.17-21.34.26:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.04.17-21.34.26:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.04.17-21.34.26:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.04.17-21.34.26:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.04.17-21.34.26:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.04.17-21.34.26:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.04.17-21.34.26:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.04.17-21.34.26:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.04.17-21.34.26:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.04.17-21.34.26:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.04.17-21.34.26:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.04.17-21.34.26:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.04.17-21.34.26:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.04.17-21.34.26:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.04.17-21.34.26:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.04.17-21.34.26:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.04.17-21.34.26:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.04.17-21.34.26:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.04.17-21.34.26:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.04.17-21.34.26:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.04.17-21.34.26:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.04.17-21.34.26:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.04.17-21.34.26:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.04.17-21.34.26:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.04.17-21.34.26:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.04.17-21.34.26:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.04.17-21.34.26:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.04.17-21.34.26:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.04.17-21.34.26:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.04.17-21.34.26:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Door.uasset"
+[2021.04.17-21.34.26:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.04.17-21.34.26:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.04.17-21.34.26:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.04.17-21.34.26:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.04.17-21.34.26:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.04.17-21.34.26:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.04.17-21.34.26:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.04.17-21.34.26:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.04.17-21.34.26:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.04.17-21.34.26:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.04.17-21.34.26:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.04.17-21.34.26:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.04.17-21.34.26:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.04.17-21.34.26:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.04.17-21.34.26:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.04.17-21.34.26:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.04.17-21.34.26:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.04.17-21.34.26:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.04.17-21.34.26:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.04.17-21.34.26:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.04.17-21.34.26:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.04.17-21.34.26:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.04.17-21.34.26:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.04.17-21.34.26:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.04.17-21.34.26:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.04.17-21.34.26:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.04.17-21.34.26:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.04.17-21.34.26:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.04.17-21.34.26:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.04.17-21.34.26:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.04.17-21.34.26:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.04.17-21.34.26:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.04.17-21.34.26:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.04.17-21.34.26:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.04.17-21.34.26:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.04.17-21.34.26:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.04.17-21.34.26:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.04.17-21.34.26:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.04.17-21.34.26:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.04.17-21.34.26:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.04.17-21.34.26:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.04.17-21.34.26:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.04.17-21.34.26:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.04.17-21.34.26:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.04.17-21.34.26:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.04.17-21.34.26:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.04.17-21.34.27:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.04.17-21.34.27:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.04.17-21.34.27:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.04.17-21.34.27:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.04.17-21.34.27:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.04.17-21.34.27:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.04.17-21.34.27:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.04.17-21.34.27:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.04.17-21.34.27:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.04.17-21.34.27:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.04.17-21.34.27:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.04.17-21.34.27:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.04.17-21.34.27:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.04.17-21.34.27:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.04.17-21.34.27:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.04.17-21.34.27:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.04.17-21.34.27:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.04.17-21.34.27:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.04.17-21.34.27:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.04.17-21.34.27:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.04.17-21.34.27:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.04.17-21.34.27:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.04.17-21.34.27:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.04.17-21.34.27:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.04.17-21.34.27:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.04.17-21.34.27:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.04.17-21.34.27:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.04.17-21.34.27:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.04.17-21.34.27:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.04.17-21.34.27:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.04.17-21.34.27:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.04.17-21.34.27:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.04.17-21.34.27:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.04.17-21.34.27:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.04.17-21.34.27:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.04.17-21.34.27:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.04.17-21.34.27:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.04.17-21.34.27:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.04.17-21.34.27:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.04.17-21.34.27:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.04.17-21.34.27:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.04.17-21.34.27:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.04.17-21.34.27:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.04.17-21.34.27:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.04.17-21.34.27:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.04.17-21.34.27:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.04.17-21.34.28:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.04.17-21.34.28:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.04.17-21.34.28:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.04.17-21.34.28:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.04.17-21.34.28:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.04.17-21.34.28:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.04.17-21.34.28:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.04.17-21.34.28:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.04.17-21.34.28:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.04.17-21.34.28:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.04.17-21.34.28:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.04.17-21.34.28:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.04.17-21.34.28:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.04.17-21.34.28:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.04.17-21.34.28:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.04.17-21.34.28:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.04.17-21.34.28:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.04.17-21.34.28:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.04.17-21.34.28:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.04.17-21.34.28:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.04.17-21.34.28:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.04.17-21.34.28:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.04.17-21.34.28:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.04.17-21.34.28:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.04.17-21.34.28:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.04.17-21.34.28:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.04.17-21.34.28:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.04.17-21.34.29:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.04.17-21.34.29:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.04.17-21.34.29:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.04.17-21.34.29:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.04.17-21.34.29:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.04.17-21.34.29:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.04.17-21.34.29:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.04.17-21.34.29:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.04.17-21.34.29:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.04.17-21.34.29:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.04.17-21.34.29:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.04.17-21.34.29:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.04.17-21.34.29:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.04.17-21.34.29:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.04.17-21.34.29:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.04.17-21.34.29:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.04.17-21.34.29:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.04.17-21.34.29:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.04.17-21.34.29:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.04.17-21.34.29:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.04.17-21.34.29:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.04.17-21.34.29:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.04.17-21.34.29:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.04.17-21.34.29:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.04.17-21.34.29:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.04.17-21.34.29:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.04.17-21.34.29:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.04.17-21.34.29:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.04.17-21.34.29:647][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.04.17-21.34.29:811][  0]LogSavePackage: Moving 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Floor_400x400F4A423314974A7B8D01B06BB9C976162.tmp' to 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.04.17-21.34.29:813][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.04.17-21.34.29:815][  0]Cmd: MAP LOAD FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.17-21.34.29:815][  0]LightingResults: New page: Lighting Build
+[2021.04.17-21.34.29:816][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.17-21.34.29:816][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.17-21.34.29:816][  0]MapCheck: New page: Map Check
+[2021.04.17-21.34.29:816][  0]LightingResults: New page: Lighting Build
+[2021.04.17-21.34.29:824][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.17-21.34.29:937][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.04.17-21.34.29:943][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.04.17-21.34.29:958][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.04.17-21.34.29:959][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.17-21.34.29:963][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.17-21.34.29:969][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.17-21.34.29:969][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.17-21.34.29:970][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.04.17-21.34.29:970][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.154
+[2021.04.17-21.34.29:971][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.369
+[2021.04.17-21.34.30:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.17-21.34.30:113][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.17-21.34.30:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.17-21.34.30:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.17-21.34.30:141][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3601 classes and 859 folders.
+[2021.04.17-21.34.30:143][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.17-21.34.30:145][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.17-21.34.30:145][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.17-21.34.30:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.04.17-21.34.30:146][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.17-21.34.30:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.17-21.34.30:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.04.17-21.34.30:147][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.17-21.34.30:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.17-21.34.30:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.04.17-21.34.30:147][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.17-21.34.30:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.17-21.34.30:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.04.17-21.34.30:148][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.17-21.34.30:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.17-21.34.30:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.04.17-21.34.30:149][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.17-21.34.30:149][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.17-21.34.30:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.04.17-21.34.30:150][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.17-21.34.30:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.17-21.34.30:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.04.17-21.34.30:150][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.17-21.34.30:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.17-21.34.30:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.17-21.34.30:151][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.17-21.34.30:151][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:151][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.17-21.34.30:151][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.04.17-21.34.30:151][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.17-21.34.30:151][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:151][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.17-21.34.30:151][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.04.17-21.34.30:152][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.17-21.34.30:152][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.17-21.34.30:152][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.04.17-21.34.30:153][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.17-21.34.30:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.17-21.34.30:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.04.17-21.34.30:153][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.17-21.34.30:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.17-21.34.30:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.04.17-21.34.30:154][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.17-21.34.30:154][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:154][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.17-21.34.30:154][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.04.17-21.34.30:154][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.17-21.34.30:154][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.17-21.34.30:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.17-21.34.30:155][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.17-21.34.30:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.17-21.34.30:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.04.17-21.34.30:156][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.17-21.34.30:156][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.17-21.34.30:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.04.17-21.34.30:156][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.17-21.34.30:156][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.17-21.34.30:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.04.17-21.34.30:157][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.17-21.34.30:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.17-21.34.30:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.17-21.34.30:158][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.17-21.34.30:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.17-21.34.30:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.04.17-21.34.30:158][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.17-21.34.30:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.17-21.34.30:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.04.17-21.34.30:159][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.17-21.34.30:159][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:159][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.17-21.34.30:159][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.17-21.34.30:160][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.17-21.34.30:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.17-21.34.30:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.04.17-21.34.30:161][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.17-21.34.30:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.17-21.34.30:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.04.17-21.34.30:162][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.17-21.34.30:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.17-21.34.30:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.04.17-21.34.30:163][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.17-21.34.30:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.17-21.34.30:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.17-21.34.30:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.04.17-21.34.30:200][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.17-21.34.30:201][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.17-21.34.30:280][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.17-21.34.30:282][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.17-21.34.30:290][  0]LogSlate: Took 0.005158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.17-21.34.30:385][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.04.17-21.34.30:424][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.17-21.34.30:460][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.17-21.34.30:460][  0]LogLoad: (Engine Initialization) Total time: 11.86 seconds
+[2021.04.17-21.34.30:460][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.17-21.34.30:460][  0]LogInit: First time updating LLM stats...
+[2021.04.17-21.34.30:469][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.17-21.34.30:475][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.04.17-21.34.30:475][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.04.17-21.34.30:496][  0]LogAssetRegistry: Asset discovery search completed in 8.8668 seconds
+[2021.04.17-21.34.30:498][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.04.17-21.34.30:601][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.17-21.35.20:660][964]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.17-21.35.20:683][964]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.17-21.35.28:905][951]LogContentBrowser: Attempting asset rename: NewFolder -> Introduction
+[2021.04.17-21.35.28:906][951]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.17-21.36.22:544][359]LogContentBrowser: Attempting asset rename: Introduction -> Title_Level
+[2021.04.17-21.36.49:768][591]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.17-21.36.49:790][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.17-21.36.49:803][591]LogSavePackage: Moving 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Minimal_DefaultE9E83E5B4FE5EEE9FBA2B9A1CE2FB1BB.tmp' to 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.17-21.36.49:861][591]LogSavePackage: Moving 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Minimal_Default_BuiltDataA0220A1143896A0DBFA04E8BF840DB8C.tmp' to 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.04.17-21.36.49:874][591]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.17-21.36.49:874][591]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.04.17-21.36.49:874][591]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.17-21.37.01:145][918]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.04.17-21.37.01:152][918]LogContentBrowser: Creating deferred item: NewWorld
+[2021.04.17-21.37.15:660][653]LogContentBrowser: Attempting asset rename: NewWorld -> Title
+[2021.04.17-21.37.15:669][653]LogContentBrowser: End creating deferred item NewWorld
+[2021.04.17-21.37.18:928][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.17-21.37.21:094][ 43]LogSlate: Window 'Save Content' being destroyed
+[2021.04.17-21.37.21:123][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Level/Title" FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.17-21.37.21:128][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.04.17-21.37.21:133][ 43]LogSavePackage: Moving 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Title6E2699424363333B82622EB339354846.tmp' to 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap'
+[2021.04.17-21.37.21:135][ 43]LogFileHelpers: Saving map 'Title' took 0.011
+[2021.04.17-21.37.21:149][ 43]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Title_Level/Title.Title
+[2021.04.17-21.37.21:150][ 43]Cmd: MAP LOAD FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.17-21.37.21:150][ 43]LightingResults: New page: Lighting Build
+[2021.04.17-21.37.21:150][ 43]LoadErrors: New page: Loading map: Title.umap
+[2021.04.17-21.37.21:180][ 43]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.17-21.37.21:180][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.17-21.37.21:180][ 43]MapCheck: New page: Map Check
+[2021.04.17-21.37.21:180][ 43]LightingResults: New page: Lighting Build
+[2021.04.17-21.37.21:184][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.17-21.37.21:186][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.17-21.37.21:186][ 43]LogAudio: Display: Audio Device (ID: 1) registered with world 'Title'.
+[2021.04.17-21.37.21:242][ 43]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.17-21.37.21:242][ 43]LogAIModule: Creating AISystem for world Title
+[2021.04.17-21.37.21:247][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.17-21.37.21:250][ 43]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.17-21.37.21:250][ 43]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.04.17-21.37.21:250][ 43]LogFileHelpers: Loading map 'Title' took 0.100
+[2021.04.17-21.37.21:259][ 43]AssetCheck: New page: Asset Save: Title
+[2021.04.17-21.37.21:259][ 43]LogContentValidation: Display: Validating World /Game/Title_Level/Title.Title
+[2021.04.17-21.38.11:895][ 36]LogActorFactory: Actor Factory created Cube
+[2021.04.17-21.38.13:240][196]LogActorFactory: Actor Factory created Cube
+[2021.04.17-21.38.20:082][993]Cmd: TRANSACTION UNDO
+[2021.04.17-21.38.20:082][993]LogEditorTransaction: Undo Scale Actors
+[2021.04.17-21.38.36:897][960]Cmd: TRANSACTION UNDO
+[2021.04.17-21.38.36:897][960]LogEditorTransaction: Undo Scale Actors
+[2021.04.17-21.39.08:816][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.17-21.39.46:836][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.17-21.39.48:818][210]LogSlate: Window 'Save Content' being destroyed
+[2021.04.17-21.39.48:857][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Level/Title" FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.17-21.39.48:862][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.04.17-21.39.48:866][210]LogSavePackage: Moving 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Title96C02F3A46408256E24D278A3390C60F.tmp' to 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap'
+[2021.04.17-21.39.48:871][210]LogFileHelpers: Saving map 'Title' took 0.014
+[2021.04.17-21.39.49:091][210]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2021.04.17-21.39.49:541][210]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2021.04.17-21.39.49:541][210]Cmd: MAP LOAD FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.17-21.39.49:541][210]LightingResults: New page: Lighting Build
+[2021.04.17-21.39.49:541][210]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2021.04.17-21.39.49:579][210]LogWorld: UWorld::CleanupWorld for Title, bSessionEnded=true, bCleanupResources=true
+[2021.04.17-21.39.49:579][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.17-21.39.49:579][210]MapCheck: New page: Map Check
+[2021.04.17-21.39.49:579][210]LightingResults: New page: Lighting Build
+[2021.04.17-21.39.49:584][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.17-21.39.49:586][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.17-21.39.49:587][210]LogAudio: Display: Audio Device (ID: 1) registered with world 'Advanced_Lighting'.
+[2021.04.17-21.39.49:635][210]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.17-21.39.49:635][210]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2021.04.17-21.39.49:641][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.04.17-21.39.49:643][210]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.17-21.39.49:643][210]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2021.04.17-21.39.49:643][210]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.103
+[2021.04.17-21.39.49:651][210]AssetCheck: New page: Asset Save: Title
+[2021.04.17-21.39.49:651][210]LogContentValidation: Display: Validating World /Game/Title_Level/Title.Title
+[2021.04.17-21.39.54:896][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.17-21.39.54:923][826]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.17-21.39.54:923][826]Cmd: MAP LOAD FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.17-21.39.54:923][826]LightingResults: New page: Lighting Build
+[2021.04.17-21.39.54:923][826]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.04.17-21.39.54:959][826]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2021.04.17-21.39.54:959][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.17-21.39.54:959][826]MapCheck: New page: Map Check
+[2021.04.17-21.39.54:959][826]LightingResults: New page: Lighting Build
+[2021.04.17-21.39.54:964][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.17-21.39.54:966][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.17-21.39.54:972][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.17-21.39.54:977][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.17-21.39.54:977][826]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.04.17-21.39.55:032][826]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.17-21.39.55:032][826]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.04.17-21.39.55:038][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.17-21.39.55:041][826]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.17-21.39.55:041][826]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.04.17-21.39.55:041][826]LogFileHelpers: Loading map 'Minimal_Default' took 0.117
+[2021.04.17-21.39.56:508][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.39.56:971][998]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2021.04.17-21.39.56:977][998]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2021.04.17-21.39.56:984][998]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2021.04.17-21.39.56:989][998]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2021.04.17-21.39.56:995][998]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2021.04.17-21.39.57:000][998]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2021.04.17-21.39.57:007][998]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2021.04.17-21.39.57:012][998]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2021.04.17-21.39.57:017][998]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2021.04.17-21.39.57:023][998]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2021.04.17-21.39.57:065][998]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.04.17-21.39.57:065][998]Cmd: MAP LOAD FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.17-21.39.57:065][998]LightingResults: New page: Lighting Build
+[2021.04.17-21.39.57:065][998]LoadErrors: New page: Loading map: StarterMap.umap
+[2021.04.17-21.39.57:068][998]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.04.17-21.39.57:068][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.17-21.39.57:068][998]MapCheck: New page: Map Check
+[2021.04.17-21.39.57:068][998]LightingResults: New page: Lighting Build
+[2021.04.17-21.39.57:076][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.17-21.39.57:078][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.04.17-21.39.57:081][998]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2021.04.17-21.39.57:184][998]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.17-21.39.57:184][998]LogAIModule: Creating AISystem for world StarterMap
+[2021.04.17-21.39.57:194][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.17-21.39.57:196][998]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.17-21.39.57:196][998]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2021.04.17-21.39.57:196][998]LogFileHelpers: Loading map 'StarterMap' took 0.132
+[2021.04.17-21.40.27:908][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.17-21.40.27:933][591]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Title_Level/Title.Title
+[2021.04.17-21.40.27:933][591]Cmd: MAP LOAD FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.17-21.40.27:933][591]LightingResults: New page: Lighting Build
+[2021.04.17-21.40.27:933][591]LoadErrors: New page: Loading map: Title.umap
+[2021.04.17-21.40.27:935][591]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.17-21.40.27:936][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.17-21.40.27:936][591]MapCheck: New page: Map Check
+[2021.04.17-21.40.27:936][591]LightingResults: New page: Lighting Build
+[2021.04.17-21.40.27:941][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.17-21.40.27:945][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.04.17-21.40.27:946][591]LogAudio: Display: Audio Device (ID: 1) registered with world 'Title'.
+[2021.04.17-21.40.27:993][591]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.17-21.40.27:993][591]LogAIModule: Creating AISystem for world Title
+[2021.04.17-21.40.28:000][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.04.17-21.40.28:002][591]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.17-21.40.28:002][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2021.04.17-21.40.28:002][591]LogFileHelpers: Loading map 'Title' took 0.069
+[2021.04.17-21.40.35:512][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.04.17-21.42.37:094][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Level/Title" FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.17-21.42.37:100][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.17-21.42.37:103][809]LogSavePackage: Moving 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Title96A6138D453ADAF899C6A1825FAEDFB1.tmp' to 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap'
+[2021.04.17-21.42.37:116][809]AssetCheck: New page: Asset Save: Title
+[2021.04.17-21.42.37:116][809]LogContentValidation: Display: Validating World /Game/Title_Level/Title.Title
+[2021.04.17-21.43.12:562][ 34]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.17-21.43.12:575][ 34]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.17-21.44.02:038][966]LogContentBrowser: Attempting asset rename: NewFolder -> Farm_Level
+[2021.04.17-21.44.02:039][966]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.17-21.44.08:468][734]LogContentBrowser: Attempting asset rename: Farm_Level -> Farm_Levels
+[2021.04.17-21.44.15:895][604]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.04.17-21.44.15:902][604]LogContentBrowser: Creating deferred item: NewWorld
+[2021.04.17-21.44.24:525][639]LogContentBrowser: Attempting asset rename: NewWorld -> Basic_Farm
+[2021.04.17-21.44.24:527][639]LogContentBrowser: End creating deferred item NewWorld
+[2021.04.17-21.44.27:625][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Level/Title" FILE="D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.17-21.44.27:631][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.17-21.44.27:635][  4]LogSavePackage: Moving 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Saved/Title84AF898845F1BC0ACD040682EF82F7A0.tmp' to 'D:/Projects/Fishy Business/Fishy_Business_Repo/Fishy_Business/Content/Title_Level/Title.umap'
+[2021.04.17-21.44.27:647][  4]AssetCheck: New page: Asset Save: Title
+[2021.04.17-21.44.27:647][  4]LogContentValidation: Display: Validating World /Game/Title_Level/Title.Title
+[2021.04.17-21.45.08:899][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.17-21.45.10:322][873]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.17-21.45.10:350][873]LogUObjectGlobals: Force Deleting 24 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue
+	Asset Name: /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue
+	Asset Name: /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05
+	Asset Name: /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01
+	Asset Name: /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+	Asset Name: /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue
+	Asset Name: /Game/StarterContent/Audio/Steam01_Cue.Steam01_Cue
+	Asset Name: /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue
+	Asset Name: /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue
+[2021.04.17-21.45.12:222][873]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.04.17-21.45.14:570][873]LogSlate: Window 'Message' being destroyed
+[2021.04.17-21.45.14:574][873]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.04.17-21.45.14:574][873]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion01, this package is now potentially corrupt
+[2021.04.17-21.45.16:150][873]LogSlate: Window 'Message' being destroyed
+[2021.04.17-21.45.16:153][873]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.04.17-21.45.16:153][873]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion02, this package is now potentially corrupt
+[2021.04.17-21.45.19:665][873]LogSlate: Window 'Message' being destroyed
+[2021.04.17-21.45.19:668][873]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/StarterContent/Audio/Light01.Light01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light01.Light01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light01_Cue.Light01_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.04.17-21.45.19:668][873]LogObjectTools: Warning: ForceDeleteObject failed to delete Light01, this package is now potentially corrupt
+[2021.04.17-21.45.22:688][873]LogSlate: Window 'Message' being destroyed
+[2021.04.17-21.45.22:691][873]Message dialog closed, result: Cancel, title: Message, text: SoundWave /Game/StarterContent/Audio/Light02.Light02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light02.Light02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light02_Cue.Light02_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.04.17-21.45.22:691][873]LogObjectTools: Warning: ForceDeleteObject failed to delete Light02, this package is now potentially corrupt
+[2021.04.17-21.45.23:432][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.17-21.45.23:439][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.17-21.45.23:445][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.04.17-21.45.23:450][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.17-21.45.23:455][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.17-21.45.23:460][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.17-21.45.23:466][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.04.17-21.45.23:471][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.17-21.45.23:475][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.45.23:480][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.17-21.45.23:485][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.45.23:490][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.04.17-21.45.23:495][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.45.23:500][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.45.23:505][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.45.23:510][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.45.23:515][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.04.17-21.45.23:520][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.17-21.45.23:525][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.17-21.45.23:530][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.17-21.45.23:535][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.17-21.45.23:540][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.17-21.45.23:557][873]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.17-21.45.24:342][873]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.785 s
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: 
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3191]
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: 
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: 					from the file system manually: 
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: /Game/StarterContent/Audio/Explosion01
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: /Game/StarterContent/Audio/Explosion02
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: /Game/StarterContent/Audio/Light01
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: /Game/StarterContent/Audio/Light02
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: Stack: 
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde0ba94a8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde044a9b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffddfba40d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffddfe7fbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffddfe770b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5e8859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5ea071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5ce46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d67f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d50337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d43632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6bbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6a9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6be389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6a4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffe49f16821 USER32.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffe49f161f3 USER32.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6bf7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d72233 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d0d485 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffddff0c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffde043e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffdd51f6bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.04.17-21.45.24:342][873]LogOutputDevice: Error: [Callstack] 0x00007ffdc2c670e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffdc2c672ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffdc2c57a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffdd5b50083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffdd5b49532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffdd5bc80e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffdd5b4cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5e8859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5ea071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5ce46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d67f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d50337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffde5d43632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6bbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6a9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6be389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6a4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe49f16821 USER32.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe49f161f3 USER32.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe1d6bf914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ff7939d8848 UE4Editor.exe!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ff7939f117c UE4Editor.exe!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ff7939f125a UE4Editor.exe!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ff793a052bd UE4Editor.exe!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ff793a07fea UE4Editor.exe!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe48c24034 KERNEL32.DLL!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: [Callstack] 0x00007ffe4b7d3691 ntdll.dll!UnknownFunction []
+[2021.04.17-21.45.24:343][873]LogOutputDevice: Error: 
